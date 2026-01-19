@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hlaing Win Phyo - Portfolio
 
-## Getting Started
+[![Live Demo](https://img.shields.io/badge/Live-Demo-indigo?style=for-the-badge)](https://hlaingwinphyo.vercel.app)
 
-First, run the development server:
+Enjoys building things for the web. From backend logic to interactive frontends, I like working across the stack to create practical and efficient solutions. I'm always exploring new technologies and improving my skills with every project.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| Backend       | Frontend       | Database   |
+| ------------- | -------------- | ---------- |
+| PHP / Laravel | React / Native | MySQL      |
+| Node.js       | Next.js        | PostgreSQL |
+| Express       | Vue.js         | Redis      |
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Other:** TypeScript, Docker, Tailwind CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📫 Connect
 
-## Learn More
+- **Email:** dev.hlaingwinphyoe@gmail.com
+- **LinkedIn:** [hlaing-win-phyo](https://www.linkedin.com/in/hlaing-win-phyo/)
+- **GitHub:** [hlaingwinphyoe](https://github.com/hlaingwinphyoe)
 
-To learn more about Next.js, take a look at the following resources:
+## Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Hlaing Win Phyo** - Full Stack Developer from Myanmar based in Thailand 🇲🇲
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with Next.js & Tailwind CSS
