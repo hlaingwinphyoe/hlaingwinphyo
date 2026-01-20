@@ -4,6 +4,7 @@ import React from "react";
 import { Navbar } from "@/components/Navbar";
 import SplashCursor from "@/components/ui/SplashCursor";
 import { Footer } from "@/components/Footer";
+import { Analytics } from "@vercel/analytics/next";
 
 export default function MainLayout({
   children,
@@ -37,6 +38,7 @@ export default function MainLayout({
         <Footer />
       </main>
       <SplashCursor />
+      <Analytics />
     </div>
   );
 }
